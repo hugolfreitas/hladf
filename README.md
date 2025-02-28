@@ -1,4 +1,4 @@
-👋 Hi, I’m Hugo Ladeira de Freitas, working as Senior Front end Developer, with more than 7 years of knowledge in development and other related stuffs. 
+👋 Hi, I’m Hugo Ladeira de Freitas, working as Senior Front end Developer, with more than 8 years of knowledge in development and other related stuffs. 
 
 I’m interested in Front end technologies (as React, Nextjs, vuejs, redux...), solutions, UX and new ways to solve problems. 
 Most of my current repositories are deprecated or too old, sorry.
