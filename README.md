@@ -7,6 +7,7 @@ Main off-topic activities:
 - 🏄‍♂️ Surf
 - 🏄‍♂️ Wing Foil
 - 🛹 Skate (longboard)
+- 🎮 Gaming
 - 🎸 Guitar
 - 🌱 Gardening
 - 🐕 my pets
